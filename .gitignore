@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+*.war
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.DS_Store
+*.swp
+
+application-local.yml
